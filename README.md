@@ -5,4 +5,4 @@ A self-contained program that uses a web application programming interface (API)
 This exploratory data analysis was performed on a current data set located on the HealthData.gov website. The data was extracted on 9/27/20 in a .csv and imported into a server on AWS that was created specifically to store this data for uncorrupted access. SQL was then written to query the data through a Jupyter notebook on Google Colab for statistical analysis and visualization.
 
 # EDA_Medicare
-This project used a publicly-available data set located on the Centers for Medicaid and Medicare website. The data was extracted from the Medicare Part D Drug Spending Dashboard and imported into a Jupyter notebook on Google Colab for statistical analysis and visualization.
+This project used a publicly-available data set located on the Centers for Medicaid and Medicare website and was published in 2018. The data was extracted from the Medicare Part D Drug Spending Dashboard and imported into a Jupyter notebook on Google Colab for statistical analysis to gain insight into the pharmaceutical price structure and relationship of drug manufacturers vs. drug price.
