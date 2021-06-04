@@ -1,3 +1,6 @@
+# Machine Learning Readmission Project
+Capstone Master's Degree project that examined data from the UCI Repository of over 62,000 patients from over 100 hospitals. Performed exploratory data analysis and visualizations to initially become familiar with the data to begin feature engineering. Compared multiple machine learning algorithms for performance. Finally, evaluated the featre significance on the 30-day readmission rate of patients, to help hospitals better predict which patients needed more care after discharge.
+
 # API_GitHub
 A self-contained program that uses a web application programming interface (API) to automatically request specific information from a website. In this case I used the GitHub API to retrieve information about the most popular/most-starred repositories as of 9/29/20. The data was then used to generate a visualization that will always be up to date even though the data might be rapidly changing.
 
